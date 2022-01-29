@@ -14,7 +14,7 @@ from telethon import events
 from Yumeko import telethn
 
 COLORS = [
-    "#F07975", "#F49F69", "#F9C84A", "#8CC56E", "#6CC7DC", "#80C1FA", "#BCB3F9", "#E181AC"]
+    "#F07975", "#F4969", "#F9C84A", "#8CC56E", "#6CC7DC", "#80C1FA", "#BCB3F9", "#E181AC"]
 
 async def process(msg, user, client, reply, replied=None):
         if not os.path.isdir("resources"):
